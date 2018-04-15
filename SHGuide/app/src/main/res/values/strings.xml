@@ -1,0 +1,125 @@
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <!--General Strings-->
+    <string name="app_name">Schleswig-Holstein Guide</string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="title_activity_detail">DetailActivity</string>
+
+    <!--"About" Fragment Strings-->
+    <string name="about_welcome">Hey there!</string>
+    <string name="about_text_body">Schleswig-Holstein Guide was made with &#60;3 by Gereon Elvers during the Google Udacity Android Basics Nanodegree Scholarship Hackathon  on 2018-04-14/15.</string>
+    <string name="about_github">Check out my GitHub here!</string>
+    <string name="share_hint">Share <xliff:g example="Example Forest" id="Attraction">%s</xliff:g>!</string>
+    <string name="share_text">Check out <xliff:g example="Example Forest" id="Attraction">%s</xliff:g> on Schleswig-Holstein Guide! \nDownload here: test.com!</string>
+    <string name="fair_use">All media is used under Section 107 of the Copyright Act 1976:\nCopyright Disclaimer Under Section 107 of the Copyright Act 1976, allowance is made for "fair use" for purposes such as criticism, comment, news reporting, teaching, scholarship, and research. Fair use is a use permitted by copyright statute that might otherwise be infringing. Non-profit, educational or personal use tips the balance in favor of fair use.\nAll content is used in an educational, non-monetized fashion.</string>
+    <string name="support">Have a question? Suggestion? Request? Just let me know via email! Click here</string>
+
+    <!--"Nature" Attractions ListView Strings-->
+    <string name="nature_item1_name">Wildpark Eekholt</string>
+    <string name="nature_item1_address">Eekholt 1 | Großenaspe, 24623 Bad Segeberg</string>
+    <string name="nature_item1_description">Wildpark Eekholt is an excellent location to see the wildlife of Northern Gemany and has great excursions all year long that you can take part in.</string>
+    <string name="nature_item1_number">+49 04327 9923</string>
+    <string name="nature_item1_website">wildpark-eekholt.de</string>
+    <string name="nature_item1_locationURL">https://www.google.com/maps/place/Eekholt+1,+24623+Gro%C3%9Fenaspe/@53.9534441,10.0321943,17z/data=!3m1!4b1!4m5!3m4!1s0x47b2371ec82d436d:0x1cf68c7f1742c01b!8m2!3d53.953441!4d10.034383</string>
+
+    <string name="nature_item2_name">Sankt Peter Ording Beach</string>
+    <string name="nature_item2_address">Sankt Peter-Ording, Schleswig-Holstein, Germany</string>
+    <string name="nature_item2_description">Sankt Peter-Ording is a popular German seaside spa and a municipality in the district of Nordfriesland, in Schleswig-Holstein, Germany. It is the only German seaside resort that has a sulphur spring and thus terms itself "North Sea spa and sulphur spring"</string>
+    <string name="nature_item2_number">+49 4863 9990</string>
+    <string name="nature_item2_website">st-peter-ording.de</string>
+    <string name="nature_item2_locationURL">https://www.google.com/maps/place/25826+Sankt+Peter-Ording/@54.324532,8.62275,13z/data=!4m5!3m4!1s0x47b465f127242de3:0x4248963c6582350!8m2!3d54.3048043!4d8.6522205</string>
+
+    <string name="nature_item3_name">Steinzeitpark Dithmarschen</string>
+    <string name="nature_item3_address">Suederstraße 47, 25767 Albersdorf, Schleswig-Holstein</string>
+    <string name="nature_item3_description">Steinzeitpark Dithmarschen is an archaeological Open-Air-Museum that reconstructs history at real scale! It spans over 40 hectares!</string>
+    <string name="nature_item3_number">+49 4835 971097</string>
+    <string name="nature_item3_website">steinzeitpark-dithmarschen.de</string>
+    <string name="nature_item3_locationURL">https://www.google.com/maps/place/Steinzeitpark+Dithmarschen/@54.1377944,9.286411,17z/data=!3m1!4b1!4m5!3m4!1s0x47b3938c57137b6b:0x2cf3ce686ab07a6f!8m2!3d54.1377944!4d9.2885997</string>
+
+    <string name="nature_item4_name">Nord-Ostsee-Kanal</string>
+    <string name="nature_item4_address">Kiel Canal, Brunsbüttel, Schleswig-Holstein, Germany</string>
+    <string name="nature_item4_description">Connecting North Sea and the Baltic Sea, this canal spans a distance of 98km. All ferries that cross it can be used for free!</string>
+    <string name="nature_item4_number">+49 4651 9870888</string>
+    <string name="nature_item4_website">tag-nok.de/</string>
+    <string name="nature_item4_locationURL">https://www.google.com/maps/place/Kiel+Canal/@54.1498808,9.6556588,13z/data=!4m5!3m4!1s0x47b3b9f3f6824b3b:0x8209ec730ede5728!8m2!3d54.1272272!4d9.6527628</string>
+
+    <!--"Entertainment" Attractions ListView Strings-->
+    <string name="entertainment_item1_name">Tolk Schau</string>
+    <string name="entertainment_item1_address">Tolkschau 1, 24894 Tolk, Schleswig-Holstein, Germany</string>
+    <string name="entertainment_item1_description">Tolk Schau is a family-focused amusement park close to the city of Schleswig. It is best-suited for children up to the age of 11. It was founded in 1960.</string>
+    <string name="entertainment_item1_number">+49 4946 222084</string>
+    <string name="entertainment_item1_website">tolk-schau.de</string>
+    <string name="entertainment_item1_locationURL">https://www.google.com/maps/place/Familien-Freizeitpark+Tolk-Schau/@54.5745611,9.6281053,17z/data=!3m1!4b1!4m5!3m4!1s0x47b30d7da9cf008b:0x9a65428763f518dc!8m2!3d54.574558!4d9.630294</string>
+
+    <string name="entertainment_item2_name">Arriba Erlebnisbad</string>
+    <string name="entertainment_item2_address">Am Hallenbad 1, 22850 Norderstedt, Schleswig-Holstein</string>
+    <string name="entertainment_item2_description">With 5 slides, multiple different pools and a huge sauna area, the Arriba is a prime location for everyone who loves water!</string>
+    <string name="entertainment_item2_number">+49 40 5219840</string>
+    <string name="entertainment_item2_website">arriba-erlebnisbad.de/erlebnisbad/</string>
+    <string name="entertainment_item2_locationURL">www.google.com/maps/place/Arriba+Erlebnisbad/@53.68938,9.9990813,17z/data=!3m1!4b1!4m5!3m4!1s0x47b227de016514af:0x1750f5fb40396db8!8m2!3d53.68938!4d10.00127</string>
+
+    <string name="entertainment_item3_name">Hansa Park</string>
+    <string name="entertainment_item3_address">Am Fahrenkrog 1, 23730 Sierksdorf</string>
+    <string name="entertainment_item3_description">Hansa-Park is a seasonal amusement park in Sierksdorf off the Baltic Sea. With attractions such as "Curse of Novgorod" or "The oath of Kärnan" it is Germany's only theme park by the sea!</string>
+    <string name="entertainment_item3_number">+49 4563 4740</string>
+    <string name="entertainment_item3_website">hansapark.de/?language=en</string>
+    <string name="entertainment_item3_locationURL">https://www.google.com/maps/place/HANSA-PARK+Leisure+and+Family+Park+GmbH+%26+Co.+KG/@54.0754412,10.7750048,17z/data=!3m1!4b1!4m5!3m4!1s0x47b276dda360d7fb:0xdb32bb6997363788!8m2!3d54.0754412!4d10.7771935</string>
+
+    <string name="entertainment_item4_name">Final Escape</string>
+    <string name="entertainment_item4_address">Faulstraße 12-18, 24103 Kiel, Schleswig-Holstein, Germany</string>
+    <string name="entertainment_item4_description">Bringing the "escape room" trend to Germany, Final Escapes promises one hour of fun to groups of up to 12 players.</string>
+    <string name="entertainment_item4_number">+49 431 90898117</string>
+    <string name="entertainment_item4_website">final-escape.com/kiel/</string>
+    <string name="entertainment_item4_locationURL">https://www.google.com/maps/place/Final+Escape+-+Live+Escape+Game+Kiel/@54.3232843,10.1348074,17z/data=!3m1!4b1!4m5!3m4!1s0x47b2565d992f4dcb:0xfe44aa3d1b474824!8m2!3d54.3232843!4d10.1369962</string>
+
+    <!--"Churches" Attractions ListView Strings-->
+    <string name="churches_item1_name">St. Petri zu Lübeck</string>
+    <string name="churches_item1_address">Petrikirchhof 1, 23552 Lübeck</string>
+    <string name="churches_item1_description">First mentioned in 1170, this church is one of the oldest in Germany. Since it\'s destruction during world war 2 and reconstruction, which was finished in 19877, however, it exists in its current form.</string>
+    <string name="churches_item1_number">+49 451 3977320</string>
+    <string name="churches_item1_website">st-petri-luebeck.de/</string>
+    <string name="churches_item1_locationURL">https://www.google.com/maps/place/Petrichurch/@53.8658097,10.6811679,17z/data=!3m1!4b1!4m5!3m4!1s0x47b2095748f5a195:0xcb8e477f7c568d37!8m2!3d53.8658066!4d10.6833566</string>
+
+    <string name="churches_item2_name">Dom zu Lübeck</string>
+    <string name="churches_item2_address">Mühlendamm 2, 23552 Lübeck, Schleswig-Holstein, Deutschland</string>
+    <string name="churches_item2_description">Surrounded by a park, this is one of Lübecks greener churches. </string>
+    <string name="churches_item2_number">+49 451 74704</string>
+    <string name="churches_item2_website">domzuluebeck.de/dom/index.html</string>
+    <string name="churches_item2_locationURL">https://www.google.com/maps/place/L%C3%BCbeck+Cathedral/@53.8608559,10.6835683,17z/data=!3m1!4b1!4m5!3m4!1s0x47b2095abc3327b1:0x3b91cee441a05bb6!8m2!3d53.8608559!4d10.685757</string>
+
+    <string name="churches_item3_name">Sankt Jakobi Kirche</string>
+    <string name="churches_item3_address">Jakobikirchhof 3, 23552 Lübeck</string>
+    <string name="churches_item3_description">This is the first church you see when entering the city by boat</string>
+    <string name="churches_item3_number">+49 451 308010</string>
+    <string name="churches_item3_website">st-jakobi-luebeck.de/</string>
+    <string name="churches_item3_locationURL">https://www.google.com/maps/place/Sankt+Jakobi/@53.8709515,10.686779,17z/data=!3m1!4b1!4m5!3m4!1s0x47b20be2985b0013:0x9b2a749abccd5a60!8m2!3d53.8709515!4d10.6889677</string>
+
+    <!--"Other" Attractions ListView Strings-->
+    <string name="other_item1_name">Karl May Spiele Bad Segeberg</string>
+    <string name="other_item1_address">Karl-May-Platz 4, 23795 Bad Segeberg, Schleswig-Holstein, Germany</string>
+    <string name="other_item1_description">If you are familiar with Karl-May and his stories about Winnetou and his tribe you have to come here and see these performances. The whole audience is included and you become part of the story!</string>
+    <string name="other_item1_number">+49 180 5 952111</string>
+    <string name="other_item1_website">karl-may-spiele.de/nav-main/aktuell/</string>
+    <string name="other_item1_locationURL">https://www.google.com/maps/place/Karl-May-Spiele/@53.9347416,10.3158429,17z/data=!3m1!4b1!4m5!3m4!1s0x47b23e25c2e7de87:0x2d6a996fd4d81920!8m2!3d53.9347385!4d10.3180316</string>
+
+    <string name="other_item2_name">Schloss Gottorf</string>
+    <string name="other_item2_address">Schloss Gottorf, Schloßinsel, Schleswig</string>
+    <string name="other_item2_description">Gottorf Castle is a castle and estate in the city of Schleswig, Schleswig-Holstein, Germany. It is the ancestral home of the Holstein-Gottorp branch of the House of Oldenburg.</string>
+    <string name="other_item2_number">+49 4621 8130</string>
+    <string name="other_item2_website">schloss-gottorf.de/</string>
+    <string name="other_item2_locationURL">https://www.google.com/maps/place/Gottorf+Castle/@54.5117827,9.5388147,17z/data=!3m1!4b1!4m5!3m4!1s0x47b3734f6804de8d:0xd5e48011ecaa3583!8m2!3d54.5117827!4d9.5410033</string>
+
+    <string name="other_item3_name">Holstentor</string>
+    <string name="other_item3_address">Holstentorplatz, 23552 Lübeck, Schleswig-Holstein, Deutschland</string>
+    <string name="other_item3_description">The Holsten Gate is a city gate marking off the western boundary of the old center of the Hanseatic city of Lübeck.</string>
+    <string name="other_item3_number">+49 451 1224129</string>
+    <string name="other_item3_website">museum-holstentor.de/</string>
+    <string name="other_item3_locationURL">https://www.google.com/maps/place/Museum+Holstentor/@53.8662577,10.6774381,17z/data=!3m1!4b1!4m5!3m4!1s0x47b20956cea22dad:0xea501892e6eede08!8m2!3d53.8662577!4d10.6796268</string>
+
+    <string name="other_item4_name">Multimar Wattforum</string>
+    <string name="other_item4_address">Multimar Wattforum Tönning, Dithmarscher Straße, Tönning</string>
+    <string name="other_item4_description">Huge aquariums with examples of fish and crustacea living in Wadden Sea including sperm whale exhibit.</string>
+    <string name="other_item4_number">+49 4861 96200</string>
+    <string name="other_item4_website">multimar-wattforum.de</string>
+    <string name="other_item4_locationURL">https://www.google.com/maps/place/Multimar+Forum+Tonning/@54.317734,8.9505343,17z/data=!3m1!4b1!4m5!3m4!1s0x47b4785735698011:0x387ac33644cfc3c5!8m2!3d54.317734!4d8.952723</string>
+
+</resources>
